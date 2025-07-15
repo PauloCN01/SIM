@@ -107,7 +107,6 @@ INSERT INTO produtos (nome, descricao, preco, quantidade_estoque, id_categoria) 
 ('Calça Jeans Slim Fit', 'Calça jeans masculina com corte slim fit.', 99.90, 150, 2),
 ('Feijão Carioca 1kg', 'Feijão carioca selecionado, pacote de 1kg.', 8.75, 250, 3),
 ('1984', 'Distopia clássica de George Orwell.', 28.00, 120, 4);
-– Drop database para o caso de precisar excluir banco de dados:
 
 ```
 Caso necessite excluir o Banco de Dados
