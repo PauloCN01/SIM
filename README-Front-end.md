@@ -127,7 +127,10 @@ npm run dev
 ```
 
 ## Rotas (URLs) para utilizar
-[continuação aqui — você pode inserir as rotas que desejar]
+https:localhost:8000/
+https:localhost:8000/perfilvendedor
+https:localhost:8000/PaginaVendedor
+https:localhost:8000/produtos
 
 ## Licença
 
