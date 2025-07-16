@@ -9,8 +9,13 @@
 ├── 📁 public
 ├── 📁 src
 │   ├── 📁 assets
-│   ├── 📄 
+│   ├── 📄 Cadastro.css
 │   ├── 📄 CadastroVendedor.tsx
+│   ├── 📄 main.tsx
+│   ├── 📄 PerfilVendedor.css
+│   ├── 📄 PerfilVendedor.tsx
+│   ├── 📄 Produtos.css
+│   ├── 📄 Produtos.tsx
 │   ├── 📄 main.tsx
 │   ├── 📄 vite-env.d.ts
 ├── 📄 .gitignore
@@ -20,6 +25,7 @@
 ├── 📄 package-lock.json
 ├── 📄 package.json
 ├── 📄 README.md
+├── 📄 sql.txt
 ├── 📄 tsconfig.app.json
 ├── 📄 tsconfig.json
 ├── 📄 tsconfig.node.json
